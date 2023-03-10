@@ -1,6 +1,6 @@
 # anti_cheating
 
-This is made using the Flutter Web and Firebase is used for the backend. Inside the lib folder we have two folder named as fornted and backend.
+This is made using the Flutter Web and Firebase is used for the backend. Inside the lib folder we have two folder named as fronted and backend.
 
 ## Frontend
 ![Screenshot (49)](https://user-images.githubusercontent.com/68496595/224402531-2ecd9928-de2b-4361-9fd5-41d8be4d6a0e.png)
